@@ -1,0 +1,459 @@
+[
+  {
+  "id" : 1,
+  "name" : "BIG-LAVASH-MYSTERIOUS-IN BEEF",
+    "composition" : "MEET 100 g, POTETO CHIPS, MYSTERIOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 25000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=24&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FEKTiFyOXkAU2s4k.jpg&text=lavash+sirli&rpt=simage",
+    "category_id" : 8
+  },
+  {
+    "id" : 2,
+    "name" : "AVERAGE-LAVASH-MYSTERIOUS-IN BEEF",
+    "composition" : "MEET 80 g, POTETO CHIPS, MYSTERIOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 21000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=24&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FEKTiFyOXkAU2s4k.jpg&text=lavash+sirli&rpt=simage",
+    "category_id" : 8
+  },
+  {
+    "id" : 3,
+    "name" : "SMALL-LAVASH-MYSTERIOUS-IN BEEF",
+    "composition" : "MEET 60 g, POTETO CHIPS, MYSTERIOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 17000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=24&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FEKTiFyOXkAU2s4k.jpg&text=lavash+sirli&rpt=simage",
+    "category_id" : 8
+  },
+  {
+    "id" : 4,
+    "name" : "BIG-LAVASH-PEPPERSOUS-BEEF",
+    "composition" : "MEET 100 g, POTETO CHIPS, PEPPERSOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 25000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=red+lavash&pos=49&rpt=simage&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2Fs1080x1080%2F64557786_2695608143843140_5046109670837592477_n.jpg%3Ftp%3D1%26_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D104%26_nc_ohc%3Dh35c46HgLaIAX8gB7yZ%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3Daacfa1a96170190963cdc6d0310c1f88%26oe%3D60CF3C89%26_nc_sid%3D83d603&from=tabbar",
+    "category_id" : 9
+  },
+  {
+    "id" : 5,
+    "name" : "AVERAGE-LAVASH-PEPPERSOUS-BEEF",
+    "composition" : "MEET 80 g, POTETO CHIPS, PEPPERSOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 21000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=red+lavash&pos=49&rpt=simage&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2Fs1080x1080%2F64557786_2695608143843140_5046109670837592477_n.jpg%3Ftp%3D1%26_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D104%26_nc_ohc%3Dh35c46HgLaIAX8gB7yZ%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3Daacfa1a96170190963cdc6d0310c1f88%26oe%3D60CF3C89%26_nc_sid%3D83d603&from=tabbar",
+    "category_id" : 9
+  },
+  {
+    "id" : 6,
+    "category_id" : 9,
+    "name" : "SMALL-LAVASH-PEPPERSOUS-BEEF",
+    "composition" : "MEET 60 g, POTETO CHIPS, PEPPERSOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 17000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=red+lavash&pos=49&rpt=simage&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2Fs1080x1080%2F64557786_2695608143843140_5046109670837592477_n.jpg%3Ftp%3D1%26_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D104%26_nc_ohc%3Dh35c46HgLaIAX8gB7yZ%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3Daacfa1a96170190963cdc6d0310c1f88%26oe%3D60CF3C89%26_nc_sid%3D83d603&from=tabbar"
+  },
+  {
+    "id" : 7,
+    "category_id" : 10,
+    "name" : "BIG-LAVASH-SIMPLE-IN BEEF",
+    "composition" : "MEET 100 g, POTETO CHIPS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 25000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fdostavshik.uz%2Fimg%2Flavash.png&text=big+lavash&rpt=simage"
+  },
+  {
+    "id" : 8,
+    "category_id" : 10,
+    "name" : "AVERAGE-LAVASH-SIMPLE-IN BEEF",
+    "composition" : "MEET 80 g, POTETO CHIPS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 21000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=7&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FBy7SZ-8IIAAVpHA.jpg&text=big+lavash&rpt=simage"
+  },
+  {
+    "id" : 9,
+    "category_id" : 10,
+    "name" : "SMALL-LAVASH-SIMPLE-IN BEEF",
+    "composition" : "MEET 60 g, POTETO CHIPS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 17000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FE7dr7JfWQAI19NU.jpg&text=small+lavash&rpt=simage"
+  },
+  {
+    "id" : 10,
+    "category_id" : 11,
+    "name" : "BIG-LAVASH-MYSTERIOUS-CHIKEN MEET",
+    "composition" : "CHIKEN MEET 100 g, POTETO CHIPS, MYSTERIOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 25000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=lavash&pos=33&rpt=simage&img_url=https%3A%2F%2Fsun9-72.userapi.com%2Fimpf%2FQ8WL7h5wAiHjgwEVOqfe_ODrpKBiWKSRmJMCYw%2FR00dpm2_VRY.jpg%3Fsize%3D604x422%26quality%3D96%26sign%3D6d1824b9992d976323418857bea79911%26type%3Dalbum&from=tabbar"
+  },
+  {
+    "id" : 11,
+    "category_id" : 11,
+    "name" : "AVERAGE-LAVASH-MYSTERIOUS-CHIKEN MEET",
+    "composition" : "CHIKEN MEET 80 g, POTETO CHIPS, MYSTERIOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 21000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=lavash&pos=33&rpt=simage&img_url=https%3A%2F%2Fsun9-72.userapi.com%2Fimpf%2FQ8WL7h5wAiHjgwEVOqfe_ODrpKBiWKSRmJMCYw%2FR00dpm2_VRY.jpg%3Fsize%3D604x422%26quality%3D96%26sign%3D6d1824b9992d976323418857bea79911%26type%3Dalbum&from=tabbar"
+  },
+  {
+    "id" : 12,
+    "category_id" : 11,
+    "name" : "SMALL-LAVASH-MYSTERIOUS-CHIKEN MEET",
+    "composition" : "CHIKEN MEET 60 g, POTETO CHIPS, MYSTERIOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 17000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=lavash&pos=33&rpt=simage&img_url=https%3A%2F%2Fsun9-72.userapi.com%2Fimpf%2FQ8WL7h5wAiHjgwEVOqfe_ODrpKBiWKSRmJMCYw%2FR00dpm2_VRY.jpg%3Fsize%3D604x422%26quality%3D96%26sign%3D6d1824b9992d976323418857bea79911%26type%3Dalbum&from=tabbar"
+  },
+  {
+    "id" : 13,
+    "category_id" : 12,
+    "name" : "BIG-LAVASH-PEPPERSOUS-CHIKEN MEET",
+    "composition" : "CHIKEN MEET 100 g, POTETO CHIPS, PEPPERSOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 25000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=13&from=tabbar&img_url=https%3A%2F%2Fsun1-87.userapi.com%2F38gdQdqb9uYdgnrTbt7RVhrnQCX9D4acJAEXZw%2FmWWpX_ZBbsw.jpg&text=lavash+chicken+pepersous&rpt=simage"
+  },
+  {
+    "id" : 14,
+    "category_id" : 12,
+    "name" : "AVERAGE-LAVASH-PEPPERSOUS-CHIKEN MEET",
+    "composition" : "CHIKEN MEET 80 g, POTETO CHIPS, PEPPERSOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 21000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=13&from=tabbar&img_url=https%3A%2F%2Fsun1-87.userapi.com%2F38gdQdqb9uYdgnrTbt7RVhrnQCX9D4acJAEXZw%2FmWWpX_ZBbsw.jpg&text=lavash+chicken+pepersous&rpt=simage"
+  },
+  {
+    "id" : 15,
+    "category_id" : 12,
+    "name" : "SMALL-LAVASH-PEPPERSOUS-CHIKEN MEET",
+    "composition" : "CHIKEN MEET 60 g, POTETO CHIPS, PEPPERSOUS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 17000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=13&from=tabbar&img_url=https%3A%2F%2Fsun1-87.userapi.com%2F38gdQdqb9uYdgnrTbt7RVhrnQCX9D4acJAEXZw%2FmWWpX_ZBbsw.jpg&text=lavash+chicken+pepersous&rpt=simage"
+  },
+  {
+    "id" : 16,
+    "category_id" : 13,
+    "name" : "BIG-LAVASH-SIMPLE",
+    "composition" : "CHIKEN MEET 100 g, POTETO CHIPS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 25000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=1&from=tabbar&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2F121582615_1051464961971248_7003054630501663962_n.jpg%3F_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D108%26_nc_ohc%3DjQLnE-RbcoUAX_GcwNz%26tp%3D18%26oh%3De59519a2525030e84d49fcfb36298f8e%26oe%3D5FC5778A&text=lavash+chicken+pepersous&rpt=simage"
+  },
+  {
+    "id" : 17,
+    "category_id" : 13,
+    "name" : "AVERAGE-LAVASH-SIMPLE",
+    "composition" : "CHIKEN MEET 80 g, POTETO CHIPS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 21000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=1&from=tabbar&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2F121582615_1051464961971248_7003054630501663962_n.jpg%3F_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D108%26_nc_ohc%3DjQLnE-RbcoUAX_GcwNz%26tp%3D18%26oh%3De59519a2525030e84d49fcfb36298f8e%26oe%3D5FC5778A&text=lavash+chicken+pepersous&rpt=simage"
+  },
+  {
+    "id" : 18,
+    "category_id" : 13,
+    "name" : "SMALL-LAVASH-SIMPLE",
+    "composition" : "CHIKEN MEET 60 g, POTETO CHIPS, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 17000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=1&from=tabbar&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2F121582615_1051464961971248_7003054630501663962_n.jpg%3F_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D108%26_nc_ohc%3DjQLnE-RbcoUAX_GcwNz%26tp%3D18%26oh%3De59519a2525030e84d49fcfb36298f8e%26oe%3D5FC5778A&text=lavash+chicken+pepersous&rpt=simage"
+
+  },
+  {
+    "id" : 19,
+    "category_id" : 14,
+    "name" : "BIG-LAVASH-FITTER",
+    "composition" : "CHIKEN MEET 100 g, RUKKOLA, KUTEM, BRINZA, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 25000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=5&from=tabbar&img_url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F15%2F14%2Fc3%2F1514c3f3c27ac44e004752980115b065.jpg&text=лаваш+fitter&rpt=simage"
+  },
+  {
+    "id" : 20,
+    "category_id" : 14,
+    "name" : "AVERAGE-LAVASH-FITTER",
+    "composition" : "CHIKEN MEET 80 g, RUKKOLA, KUTEM, BRINZA, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 21000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=5&from=tabbar&img_url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F15%2F14%2Fc3%2F1514c3f3c27ac44e004752980115b065.jpg&text=лаваш+fitter&rpt=simage"
+  },
+  {
+    "id" : 21,
+    "category_id" : 14,
+    "name" : "SMALL-LAVASH-FITTER",
+    "composition" : "CHIKEN MEET 60 g, RUKKOLA, KUTEM, BRINZA, RED SOUS, WHITE SOUS, CUCUMBER, TOMATOES" ,
+    "price": 17000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=5&from=tabbar&img_url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F15%2F14%2Fc3%2F1514c3f3c27ac44e004752980115b065.jpg&text=лаваш+fitter&rpt=simage"
+  },
+  {
+    "id" : 22,
+    "category_id" : 15,
+    "name": "GAMBURGER",
+    "composition" : "BEEF RISSOLE, CUCUMBER, TOMATOES, KETCHUP, MAYANEZ, LATTUCE LEAVES",
+    "price": 18000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fsun9-61.userapi.com%2FKCj3LdxvcMufvFbWRxlgdphMD-TKrrwXG7IShw%2FUc3WnLUreo4.jpg&text=gamburger&rpt=simage"
+  },
+  {
+    "id" : 23,
+    "category_id" : 16,
+    "name": "CHEEASE-BURGER",
+    "composition" : "BEEF RISSOLE, CHEEASE, CUCUMBER, TOMATOES, KETCHUP, MAYANEZ, LATTUCE LEAVES",
+    "price": 21000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fmedia-cldnry.s-nbcnews.com%2Fimage%2Fupload%2Fnewscms%2F2016_01%2F1366806%2F150108-burger-mn-1200.jpg&text=gamburger&rpt=simage"
+  },
+  {
+    "id" : 24,
+    "category_id" : 17,
+    "name": "BIG-BURGER",
+    "composition" : "DOUBLE BEEF RISSOLE, CUCUMBER, TOMATOES, KETCHUP, MAYANEZ, LATTUCE LEAVES",
+    "price": 22000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=18&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FErZXv-eXIA0BdaH.jpg&text=gamburger&rpt=simage"
+  },
+  {
+    "id" : 25,
+    "category_id" : 18,
+    "name": "BIG-CHEEASE-BURGER",
+    "composition" : "DOUBLE BEEF RISSOLE, CHEEASE, CUCUMBER, TOMATOES, KETCHUP, MAYANEZ, LATTUCE LEAVES",
+    "price": 25000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=gamburger&pos=34&rpt=simage&img_url=https%3A%2F%2Fkartinkin.net%2Fuploads%2Fposts%2F2021-07%2F1627628921_2-kartinkin-com-p-long-chizburger-burger-yeda-krasivo-foto-2.jpg&from=tabbar"
+  },
+  {
+    "id": 26,
+    "category_id": 19,
+    "name": "SIMPLE HOD-DOG",
+    "composition" : "SASUAGE, CUCMUBER, TOMATO, CAVIAR, POTETO CHIPS",
+    "price": 12000.00,
+    "imagerUrl": "https://yandex.ru/images/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fst2.depositphotos.com%2F1177973%2F9930%2Fi%2F950%2Fdepositphotos_99305826-stock-photo-tasty-hot-dogs.jpg&text=hoddog&rpt=simage"
+  },
+  {
+    "id": 27,
+    "category_id": 20,
+    "name": "MYSTERIOUS HOD-DOG",
+    "composition" : "SASUAGE, MYSTERIOUS, CUCUMBER, TOMATO, CAVIAR, POTETO CHIPS",
+    "price" : 15000.00,
+    "imageUrl" : "https://yandex.ru/images/search?pos=26&from=tabbar&img_url=https%3A%2F%2Fp7.hiclipart.com%2Fpreview%2F239%2F496%2F969%2F5bbdc5af30012.jpg&text=hoddog+cheese&rpt=simage"
+  },
+  {
+    "id": 28,
+    "category_id": 21,
+    "name": "MYSTERIOUS DOUBLE HOD-DOG",
+    "composition" : "DOUBLE SASUAGE, MYSTERIOUS, CUCUMBER, TOMATO, CAVIAR, POTETO CHIPS",
+    "price" : 18000.00,
+    "imageUrl" : "https://yandex.ru/images/search?pos=25&from=tabbar&img_url=https%3A%2F%2Fsun1-20.userapi.com%2F-340seVm4Gjp07na38cWu5mTUxCQnJDGOLukjQ%2FXu7jEgcfQP8.jpg&text=+big+hoddog+cheese&rpt=simage"
+  },
+  {
+    "id": 29,
+    "category_id": 22,
+    "name": "HAGGI",
+    "composition" : "BEEF , CHEEASE, CUCUMBER, TOMATO, POTETO CHIPS, MYSTERIOUS",
+    "price": 22000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=4&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCYmrgOjWkAAfJrH.jpg&text=haggi&rpt=simage"
+  },
+  {
+    "id": 30,
+    "category_id": 23,
+    "name" : "SENDWICH IN BEEF",
+    "composition" : "BEEF , FREE, LATTUCE LEAVES, CUCUMBER, TOMATO, KETCHUP, MAYONEZ",
+    "price" : 28000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=sandwich+beef&pos=35&rpt=simage&img_url=https%3A%2F%2Fwww.weightwatchers.ca%2Fimages%2F4105%2Fdynamic%2Fmeals%2F2015%2F11%2FRoastBeefSandwichSlaw_a_FPO_800X800.jpg&from=tabbar"
+  },
+  {
+    "id": 31,
+    "category_id": 24,
+    "name" : "SENDWICH CHEEASE IN BEEF",
+    "composition" : "BEEF , FREE, CHEEASE, LATTUCE LEAVES, CUCUMBER, TOMATO, KETCHUP, MAYONEZ",
+    "price": 31000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=2&text=sandwich+beef+in+cheese&pos=64&rpt=simage&img_url=https%3A%2F%2Fsun9-31.userapi.com%2F0iPVBWAMhwKSFLuTSksOBMivqN64Dl3L7uKpcg%2FG2-1NnmbVDE.jpg&from=tabbar"
+  },
+  {
+    "id": 32,
+    "category_id": 25,
+    "name" : "SENDWICH IN CHIKEN MEET",
+    "composition" : "CHIKEN MEET, FREE, LATTUCE LEAVES, CUCUMBER, TOMATO, KETCHUP, MAYONEZ ",
+    "price": 26000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2Fs1080x1080%2F119001068_2824996604396630_4049091239335026228_n.jpg%3F_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D102%26_nc_ohc%3DClj7Hk7Ow3gAX_9HeYM%26_nc_tp%3D15%26oh%3D00d0fcf002a117b5f4b5a78ec6cf1e1b%26oe%3D5F9D4866&text=лаваш+fitter&rpt=simage"
+  },
+  {
+    "id": 33,
+    "category_id": 26,
+    "name" : "SENDWICH CHEEASE IN CHIKEN MEET",
+    "composition" : "CHIKEN MEET, FREE, CHEEASE, LATTUCE LEAVES, CUCUMBER, TOMATO, KETCHUP, MAYONEZ ",
+    "price": 30000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=24&from=tabbar&img_url=https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstraus%2Fmedia%2Fproducts2%2Fa2886cbc31a94fbf9cd0a26594b631a8.jpg&text=club+sandwich&rpt=simage"
+  },
+  {
+    "id": 34,
+    "category_id": 27,
+    "name" : "SHOURMA",
+    "composition" : "BEEF, RED SOUS, WHITE SOUS, POTETO CHIPS, CUCUMBER, TOMATO",
+    "price" : 19000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=5&from=tabbar&img_url=https%3A%2F%2Fst2.depositphotos.com%2F3765753%2F5447%2Fi%2F950%2Fdepositphotos_54470877-stock-photo-doner-kebab-grilled-meat-bread.jpg&text=donner&rpt=simage"
+  },
+  {
+    "id": 35,
+    "category_id": 28,
+    "name" : "CHEEASE-SHOURMA",
+    "composition" : "BEEF, CHEEASE, RED SOUS, WHITE SOUS, POTETO CHIPS, CUCUMBER, TOMATO",
+    "price" : 22000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=8&from=tabbar&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2Fs1080x1080%2F95996879_680888679414324_2220643073138283500_n.jpg%3Ftp%3D1%26_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D100%26_nc_ohc%3DG-OuJG4eBtAAX-vZ0p4%26edm%3DABfd0MgAAAAA%26ccb%3D7-4%26oh%3D916048b88e937c01b0cd9c16eba453d7%26oe%3D60A8740D%26_nc_sid%3D7bff83&text=donar+cheese&rpt=simage"
+  },
+  {
+    "id": 36,
+    "category_id": 29,
+    "name" : "BIG-SHOURMA",
+    "composition" : "BEEF, CHEEASE, RED SOUS, WHITE SOUS, POTETO CHIPS, CUCUMBER, TOMATO",
+    "price" : 23000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=3&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FEttnBnQXAAIDiJS.jpg%3Alarge&text=big+donar+cheese&rpt=simage"
+  },
+  {
+    "id": 37,
+    "category_id": 30,
+    "name" : "BIG-CHEEASE-SHOURMA",
+    "composition" : "BEEF, CHEEASE, RED SOUS, WHITE SOUS, POTETO CHIPS, CUCUMBER, TOMATO",
+    "price" : 25000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=7&from=tabbar&img_url=https%3A%2F%2Fbedritskiy.uz%2Fuploads%2Fportfolio%2F456cc009940de523218448476d1fc567.jpg&text=big+donar+cheese&rpt=simage"
+  },
+  {
+    "id": 38,
+    "category_id": 31,
+    "name" : "LEG 8 PIECES",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS",
+    "price": 54000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=kfs+leg&pos=33&rpt=simage&img_url=https%3A%2F%2Fsun9-33.userapi.com%2FYwGNiCbJxXzg8rHGFs1ImQuPXIb88XZQDPzshA%2FqoYp3ZmVMPg.jpg&from=tabbar"
+  },
+  {
+    "id": 39,
+    "category_id": 31,
+    "name" : "LEG 12 PIECES",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS",
+    "price": 74000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=kfs+leg&pos=33&rpt=simage&img_url=https%3A%2F%2Fsun9-33.userapi.com%2FYwGNiCbJxXzg8rHGFs1ImQuPXIb88XZQDPzshA%2FqoYp3ZmVMPg.jpg&from=tabbar"
+  },
+  {
+    "id": 40,
+    "category_id": 31,
+    "name" : "LEG 16 PIECES",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS",
+    "price": 94000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=kfs+leg&pos=33&rpt=simage&img_url=https%3A%2F%2Fsun9-33.userapi.com%2FYwGNiCbJxXzg8rHGFs1ImQuPXIb88XZQDPzshA%2FqoYp3ZmVMPg.jpg&from=tabbar"
+  },
+  {
+    "id": 41,
+    "category_id": 32,
+    "name" : "WING 8 PIECES",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS",
+    "price": 44000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=kfs+wing&pos=49&rpt=simage&img_url=https%3A%2F%2F2.bp.blogspot.com%2F_HFKt7_MY01A%2FS7UkozJntYI%2FAAAAAAAAAaw%2F3dJ_RcQ5aZk%2Fs1600%2FP3310340.JPG&from=tabbar"
+  },
+  {
+    "id": 42,
+    "category_id": 32,
+    "name" : "WING 12 PIECES",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS",
+    "price": 60000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=kfs+wing&pos=49&rpt=simage&img_url=https%3A%2F%2F2.bp.blogspot.com%2F_HFKt7_MY01A%2FS7UkozJntYI%2FAAAAAAAAAaw%2F3dJ_RcQ5aZk%2Fs1600%2FP3310340.JPG&from=tabbar"
+  },
+  {
+    "id": 43,
+    "category_id": 32,
+    "name" : "WING 16 PIECES",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS",
+    "price": 72000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=1&text=kfs+wing&pos=49&rpt=simage&img_url=https%3A%2F%2F2.bp.blogspot.com%2F_HFKt7_MY01A%2FS7UkozJntYI%2FAAAAAAAAAaw%2F3dJ_RcQ5aZk%2Fs1600%2FP3310340.JPG&from=tabbar"
+  },
+  {
+    "id": 44,
+    "category_id": 33,
+    "name" : "LEG 8 PIECES AND FREE 300 G",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS, FREE",
+    "price": 60000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=11&from=tabbar&img_url=https%3A%2F%2Fsun9-70.userapi.com%2F6ISGyEPgmkrr_dQd-PGEa85-dC9V0wKrOUMKlw%2FKGyDodEhXZU.jpg&text=kfs+leg+and+free&rpt=simage"
+  },
+  {
+    "id": 45,
+    "category_id": 33,
+    "name" : "LEG 12 PIECES AND FREE 350 G",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS, FREE",
+    "price": 80000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=11&from=tabbar&img_url=https%3A%2F%2Fsun9-70.userapi.com%2F6ISGyEPgmkrr_dQd-PGEa85-dC9V0wKrOUMKlw%2FKGyDodEhXZU.jpg&text=kfs+leg+and+free&rpt=simage"
+  },
+  {
+    "id": 46,
+    "category_id": 33,
+    "name" : "LEG 16 PIECES AND FREE 400 G",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS, FREE",
+    "price": 100000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=11&from=tabbar&img_url=https%3A%2F%2Fsun9-70.userapi.com%2F6ISGyEPgmkrr_dQd-PGEa85-dC9V0wKrOUMKlw%2FKGyDodEhXZU.jpg&text=kfs+leg+and+free&rpt=simage"
+  },
+  {
+    "id": 47,
+    "category_id": 34,
+    "name" : "WING 8 PIECES AND FREE 300 G",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS, FREE",
+    "price": 48000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=2&text=kfs+wing+and+free&pos=86&rpt=simage&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2F13734373_607231366119969_2053806227_n.jpg%3F_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D109%26_nc_ohc%3D_g7c7u47LyAAX9Asua7%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D8befc37b0cecba9ed0784d25373df548%26oe%3D610350BC%26_nc_sid%3D7bff83&from=tabbar"
+  },
+  {
+    "id": 48,
+    "category_id": 34,
+    "name" : "WING 12 PIECES AND FREE 350 G",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS, FREE",
+    "price": 64000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=2&text=kfs+wing+and+free&pos=86&rpt=simage&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2F13734373_607231366119969_2053806227_n.jpg%3F_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D109%26_nc_ohc%3D_g7c7u47LyAAX9Asua7%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D8befc37b0cecba9ed0784d25373df548%26oe%3D610350BC%26_nc_sid%3D7bff83&from=tabbar"
+  },
+  {
+    "id": 49,
+    "category_id": 34,
+    "name" : "WING 16 PIECES AND FREE 400 G",
+    "composition" : "CHIKEN LEG, RED SOUS, WHITE SOUS, FREE",
+    "price": 760000.00,
+    "imageUrl": "https://yandex.ru/images/search?p=2&text=kfs+wing+and+free&pos=86&rpt=simage&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2F13734373_607231366119969_2053806227_n.jpg%3F_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D109%26_nc_ohc%3D_g7c7u47LyAAX9Asua7%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D8befc37b0cecba9ed0784d25373df548%26oe%3D610350BC%26_nc_sid%3D7bff83&from=tabbar"
+  },
+  {
+    "id": 50,
+    "category_id" : 35,
+    "name": "BIG GURMA",
+    "composition": "PIZZA SOUS, OLIVES, PEPERONI, MUSHROOM, OREGANO",
+    "price": 75000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=3&from=tabbar&img_url=https%3A%2F%2Fwww.slivki.by%2Fximage%2F1526483324_mceclip17.jpg&text=pizza+gurma&rpt=simage"
+  },
+  {
+    "id": 51,
+    "category_id" : 35,
+    "name": "SMALL GURMA",
+    "composition": "PIZZA SOUS, OLIVES, PEPERONI, MUSHROOM, OREGANO",
+    "price": 50000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=3&from=tabbar&img_url=https%3A%2F%2Fwww.slivki.by%2Fximage%2F1526483324_mceclip17.jpg&text=pizza+gurma&rpt=simage"
+  },
+  {
+    "id": 52,
+    "category_id" : 36,
+    "name": "BIG SUPER MIKS",
+    "composition": "A COMBINATION OF 4 PIZZAS",
+    "price": 80000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=7&from=tabbar&img_url=https%3A%2F%2Fhotsale.ge%2Ffiles%2Foffers%2Fshiospizza%2Fgoldmenu%2F21.jpg&text=pizza+super+miks&rpt=simage"
+  },
+  {
+    "id": 53,
+    "category_id" : 36,
+    "name": "SMALL SUPER MIKS",
+    "composition": "A COMBINATION OF 4 PIZZAS",
+    "price": 50000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=7&from=tabbar&img_url=https%3A%2F%2Fhotsale.ge%2Ffiles%2Foffers%2Fshiospizza%2Fgoldmenu%2F21.jpg&text=pizza+super+miks&rpt=simage"
+  },
+  {
+    "id": 54,
+    "category_id" : 37,
+    "name": "BIG CHIKEN KARRI",
+    "composition": "BEEF ROULETTE, CHIKEN FILET, MATSARELLA CHEESE, PINEAPPLE AND KARRI SOUS",
+    "price": 90000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fcdn.scope.city%2Fd%2FDF%2F6B%2FDFDHzSeS4egpz9QgUSZIvA6maA30.jpg%3Fw%3D1200%26amp%3Bh%3D630&text=pizza+chiken+kari&rpt=simage"
+  },
+  {
+    "id": 55,
+    "category_id" : 37,
+    "name": "SMALL CHIKEN KARRI",
+    "composition": "BEEF ROULETTE, CHIKEN FILET, MATSARELLA CHEESE, PINEAPPLE AND KARRI SOUS",
+    "price": 60000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fcdn.scope.city%2Fd%2FDF%2F6B%2FDFDHzSeS4egpz9QgUSZIvA6maA30.jpg%3Fw%3D1200%26amp%3Bh%3D630&text=pizza+chiken+kari&rpt=simage"
+  },
+  {
+    "id": 56,
+    "category_id" : 38,
+    "name": "BIG DOUBLE PEPPERONI",
+    "composition": "DOUBLE PEPPERONI, MOTSARELLA CHEESE, TOMATO SOUS",
+    "price": 70000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fsun9-20.userapi.com%2FKWV_5b1GjnEIp6Q46awVOzR_ehSscTStlYZ8qA%2F308rM32LABA.jpg&text=pizza+double+peperoni&rpt=simage"
+  },
+  {
+    "id": 57,
+    "category_id" : 38,
+    "name": "SMALL DOUBLE PEPPERONI",
+    "composition": "DOUBLE PEPPERONI, MOTSARELLA CHEESE, TOMATO SOUS",
+    "price": 54000.00,
+    "imageUrl": "https://yandex.ru/images/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fsun9-20.userapi.com%2FKWV_5b1GjnEIp6Q46awVOzR_ehSscTStlYZ8qA%2F308rM32LABA.jpg&text=pizza+double+peperoni&rpt=simage"
+  }
+]

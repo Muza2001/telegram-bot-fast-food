@@ -1,0 +1,217 @@
+[
+  {
+    "id" : 1,
+    "perefix" : "\uD83E\uDDC0",
+    "name" : "LAVASH"
+  },
+  {
+    "id" : 2,
+    "perefix" : "\uD83C\uDF54",
+    "name" : "BURGER"
+  },
+  {
+  "id" : 3,
+  "perefix" : "\uD83C\uDF2D",
+  "name" : "HOD-DOG"
+  },
+  {
+  "id" : 4,
+  "perefix" : "\uD83E\uDD6A",
+    "name" : "SENDWICH"
+  },
+  {
+  "id" : 5,
+  "perefix" : "\uD83C\uDF54",
+    "name" : "DONNER"
+  },
+  {
+    "id" : 6,
+    "perefix" : "\uD83E\uDDC7",
+    "name" : "KFC"
+  },
+  {
+    "id" : 7,
+    "perefix" : "\uD83C\uDF55",
+    "name" : "PIZZA"
+  },
+  {
+    "id" : 8,
+    "perefix" : "\uD83E\uDDC0  \uD83C\uDF2F",
+    "name" : "MYSTERIOUS IN BEEF",
+    "parent_id" : 1
+  },
+  {
+    "id" : 9,
+    "perefix" : "\uD83C\uDF2F",
+    "name" : "PEPPERSOUS IN BEEF",
+    "parent_id" : 1
+  },
+  {
+    "id" : 10,
+    "perefix" : "\uD83C\uDF2F",
+    "name" : "SIMPLE IN BEEF",
+    "parent_id" : 1
+  },
+  {
+    "id" : 11,
+    "perefix" : "\uD83E\uDDC0  \uD83C\uDF2F",
+    "name" : "MYSTERIOUS IN CHICKEN MEET",
+    "parent_id" : 1
+  },
+  {
+    "id" : 12,
+    "perefix" : "\uD83C\uDF2F",
+    "name" : "PEPPERSOUS IN CHICKEN MEET",
+    "parent_id" : 1
+  },
+  {
+    "id" : 13,
+    "perefix" : "\uD83C\uDF2F",
+    "name" : "SIMPLE IN CHICKEN MEET",
+    "parent_id" : 1
+  },
+  {
+    "id" : 14,
+    "perefix" : "\uD83C\uDF2F",
+    "name" : "FITTER",
+    "parent_id" : 1
+  },
+  {
+    "id" : 15,
+    "perefix" : "\uD83C\uDF54",
+    "name": "GAMBURGER",
+    "parent_id" : 2
+  },
+  {
+    "id" : 16,
+    "perefix" : "\uD83C\uDF54",
+    "name": "CHEEASE-BURGER",
+    "parent_id" : 2
+  },
+  {
+    "id" : 17,
+    "perefix" : "\uD83C\uDF54",
+    "name": "BIG-BURGER",
+    "parent_id" : 2
+  },
+  {
+    "id" : 18,
+    "perefix" : "\uD83C\uDF54",
+    "name": "BIG-CHEEASE-BURGER",
+    "parent_id" : 2
+  },
+  {
+    "id": 19,
+    "perefix" : "\uD83C\uDF2D",
+    "name": "SIMPLE HOD-DOG",
+    "parent_id": 3
+  },
+  {
+    "id": 20,
+    "perefix" : "\uD83C\uDF2D",
+    "name": "MYSTERIOUS HOD-DOG",
+    "parent_id": 3
+  },
+  {
+    "id": 21,
+    "perefix" : "\uD83C\uDF2D",
+    "name": "MYSTERIOUS DOUBLE HOD-DOG",
+    "parent_id": 3
+  },
+  {
+    "id": 22,
+    "perefix" : "\uD83E\uDED4",
+    "name": "HAGGI",
+    "parent_id": 3
+  },
+  {
+    "id": 23,
+    "perefix": "\uD83E\uDD6A",
+    "name": "SIMPLE SENDWICH IN BEEF",
+    "parent_id": 4
+  },
+  {
+    "id": 24,
+    "perefix": "\uD83E\uDD6A",
+    "name": "MYSTERIOUS SENDWICH IN BEEF",
+    "parent_id": 4
+  },
+  {
+    "id": 25,
+    "perefix": "\uD83E\uDD6A",
+    "name": "SIMPLE SENDWICH IN CHICKEN MEET",
+    "parent_id": 4
+  },
+  {
+    "id": 26,
+    "perefix": "\uD83E\uDD6A",
+    "name": "MYSTERIOUS SENDWICH IN CHICKEN MEET",
+    "parent_id": 4
+  },
+  {
+    "id" : 27,
+    "perefix" : "\uD83C\uDF54",
+    "name": "SHOURMA",
+    "parent_id" : 5
+  },
+  {
+    "id" : 28,
+    "perefix" : "\uD83C\uDF54",
+    "name": "CHEEASE-SHOURMA",
+    "parent_id" : 5
+  },
+  {
+    "id" : 29,
+    "perefix" : "\uD83C\uDF54",
+    "name": "BIG-SHOURMA",
+    "parent_id" : 5
+  },
+  {
+    "id" : 30,
+    "perefix" : "\uD83C\uDF54",
+    "name": "BIG-CHEEASE-SHOURMA",
+    "parent_id" : 5
+  },
+  {
+    "id": 31,
+    "perefix" : "\uD83C\uDF57",
+    "name": "CHIKEN LEG",
+    "parent_id" : 6
+  },
+  {
+    "id": 32,
+    "perefix" : "\uD83C\uDF57",
+    "name": "CHIKEN WING",
+    "parent_id" : 6
+  },
+  {
+    "id": 33,
+    "perefix" : "\uD83C\uDF57",
+    "name": "CHIKEN AND FREE",
+    "parent_id" : 6
+  },
+  {
+    "id": 36,
+    "perefix": "\uD83C\uDF55",
+    "name": "GURMA",
+    "parent_id" : 7
+  },
+  {
+    "id": 36,
+    "perefix": "\uD83C\uDF55",
+    "name": "SUPER MIKS",
+    "parent_id" : 7
+  },
+  {
+    "id": 37,
+    "perefix": "\uD83C\uDF55",
+    "name": "CHIKEN KARRI",
+    "parent_id" : 7
+  },
+  {
+    "id": 38,
+    "perefix": "\uD83C\uDF55",
+    "name": "DOUBLE PEPPERONI",
+    "parent_id" : 7
+  }
+]
