@@ -3,6 +3,7 @@ package service;
 import dto.OrderCartDto;
 import model.OrderCart;
 
+import java.sql.SQLException;
 import java.util.List;
 
 public interface OrderCartService {
@@ -13,7 +14,7 @@ public interface OrderCartService {
 
     OrderCart findById(Long id);
 
-    OrderCart findByCartAndProduct(Long id, long productId);
+    OrderCart findByCartAndProduct(Long id, long productId) throws SQLException;
 
     List<OrderCartDto> findByCartId(Long cartId);
 

@@ -22,6 +22,7 @@ import service.serviceIMPL.*;
 import util.BotConstants;
 import util.BotMenu;
 
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -259,7 +260,7 @@ public class BotService {
      * @param multiplication - product multiplication
      * @return - product or + Inline key board
      */
-    public static SendMessage addProductToCart(Message message, long productId, int multiplication) {
+    public static SendMessage addProductToCart(Message message, long productId, int multiplication) throws SQLException {
 
         SendMessage sendMessage = new SendMessage();
         sendMessage.setParseMode(ParseMode.MARKDOWN);
@@ -301,11 +302,7 @@ public class BotService {
                     OrderCartStatus.OPEN,
                     false
             ));
-        } else {
-
         }
-
-
         return sendMessage;
     }
 
@@ -356,10 +353,10 @@ public class BotService {
         return inlineKeyboardMarkup;
     }
 
+
     /**
      * ReplayKeyMarkup for cart
      */
-
     public static SendMessage showCart(Long chatId) {
         SendMessage sendMessage = new SendMessage();
         sendMessage.setParseMode(ParseMode.MARKDOWN);
@@ -447,6 +444,7 @@ public class BotService {
         return inlineKeyboardMarkup;
     }
 
+
     /**
      * Discont - menu
      * @return - product_id
@@ -508,6 +506,7 @@ public class BotService {
         inlineKeyboardMarkup.setKeyboard(list);
         return inlineKeyboardMarkup;
     }
+
 
     /**
      * Save order_cart for order_deteil and ordr_for_user
@@ -646,6 +645,7 @@ public class BotService {
 
         return sendMessage;
     }
+
 
     /**
      * BACK menu

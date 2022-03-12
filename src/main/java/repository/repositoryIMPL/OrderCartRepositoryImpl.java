@@ -64,8 +64,18 @@ public class OrderCartRepositoryImpl implements OrderCartRepository {
         return null;
     }
 
+    public boolean exitsByOrderAndProduct(Long cart, Long product) throws SQLException {
+        String bool = "SELECT c.id, p.id from cart c, product p where c.id = "+ cart + " and p.id = " + product;
+        PreparedStatement statement = connection.prepareStatement(bool);
+        return statement.execute();
+    }
+
     @Override
-    public OrderCart findByCartAndProduct(Long id, long productId) {
+    public OrderCart findByCartAndProduct(Long id, long productId) throws SQLException {
+        if (exitsByOrderAndProduct(id, productId)) {
+            String SELECT_PRODUCT_CART_ID = "insert into order_cart " + id;
+        }
+
         return null;
     }
 

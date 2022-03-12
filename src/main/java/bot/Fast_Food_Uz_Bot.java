@@ -13,6 +13,8 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import util.BotMenu;
 import util.BotSettings;
 
+import java.sql.SQLException;
+
 
 public class Fast_Food_Uz_Bot extends TelegramLongPollingBot {
 
@@ -162,7 +164,12 @@ public class Fast_Food_Uz_Bot extends TelegramLongPollingBot {
                long productId = Long.parseLong(split[1].trim());
                int multiplication = Integer.parseInt(split[2].trim());
 
-               SendMessage sendMessage = BotService.addProductToCart(message , productId , multiplication);
+               SendMessage sendMessage = null;
+               try {
+                   sendMessage = BotService.addProductToCart(message , productId , multiplication);
+               } catch (SQLException e) {
+                   e.printStackTrace();
+               }
 
                try {
                    execute(sendMessage);

@@ -6,6 +6,7 @@ import repository.OrderCartRepository;
 import repository.repositoryIMPL.OrderCartRepositoryImpl;
 import service.OrderCartService;
 
+import java.sql.SQLException;
 import java.util.List;
 
 public class OrderCartServiceImpl implements OrderCartService {
@@ -26,7 +27,7 @@ public class OrderCartServiceImpl implements OrderCartService {
     }
 
     @Override
-    public OrderCart findByCartAndProduct(Long id, long productId) {
+    public OrderCart findByCartAndProduct(Long id, long productId) throws SQLException {
         return orderCartRepository.findByCartAndProduct(id, productId);
     }
 
