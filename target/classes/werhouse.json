@@ -1,0 +1,16 @@
+[{
+  "id": 56,
+  "category_id" : 38,
+  "name": "BIG DOUBLE PEPPERONI",
+  "composition": "DOUBLE PEPPERONI, MOTSARELLA CHEESE, TOMATO SOUS",
+  "price": 70000.00,
+  "imageUrl": "https://yandex.ru/images/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fsun9-20.userapi.com%2FKWV_5b1GjnEIp6Q46awVOzR_ehSscTStlYZ8qA%2F308rM32LABA.jpg&text=pizza+double+peperoni&rpt=simage"
+},
+{
+"id": 57,
+"category_id" : 38,
+"name": "SMALL DOUBLE PEPPERONI",
+"composition": "DOUBLE PEPPERONI, MOTSARELLA CHEESE, TOMATO SOUS",
+"price": 54000.00,
+"imageUrl": "https://yandex.ru/images/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fsun9-20.userapi.com%2FKWV_5b1GjnEIp6Q46awVOzR_ehSscTStlYZ8qA%2F308rM32LABA.jpg&text=pizza+double+peperoni&rpt=simage"
+}]
